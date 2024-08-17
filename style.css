@@ -1,0 +1,114 @@
+*{margin: 0%;
+    padding: 0%;
+
+}
+body{
+    background-color: rgb(147, 76, 214);
+    color: white;
+}
+
+.container{
+    height: 500px;
+    width: 970px;
+    border: 2px solid black;
+    border-radius: 25px;
+    position: relative;
+    margin: 35px auto;
+    background-image: url(./images/background-image....\,\,....jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+
+}
+.item1{
+    width: 400px;
+    border: 2px solid black;
+    height: 495px;
+    border-radius: 25px;
+}
+.userlogo1{
+    height: 100px;
+    width: 100px;
+    border: 1px solid rgb(57, 19, 194);
+    border-radius: 50%;
+    position: relative;
+    left: 150px;
+    top: 60px;
+}
+.LOGO2{
+    height: 50px; 
+    width: 150px;
+    /* border: 1px solid black; */
+    position: relative;
+    top: -50px;
+    left: -80px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+.imptemail{
+    position: relative;
+    height: 35px;
+    width: 300px;
+    top: 90px;
+    left: 50px;
+    border-radius: 15px;
+    border-bottom: 2px solid black;
+}
+.imptpassword{
+    position: relative;
+    height: 35px;
+    width: 300px;
+    top: 120px;
+    left: 50px;
+    border-radius: 15px;
+    border-bottom: 2px solid black;
+    
+}
+a{
+    text-decoration: none;
+}
+label{
+    position: relative;
+    top: 150px;
+    left: 50px;
+}
+.forgotp{
+    position: relative;
+    top: 150px;
+    left: 120px;
+    color: white;
+}
+.loginbtn{
+    position: relative;
+    top: 180px;
+    left: 50px; 
+    width: 300px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: rgb(173, 114, 228);
+    color: white;
+}
+.item2{
+  position: relative;
+  top: -480px;
+  left: 580px;
+}
+.A , .B , .C{
+   margin-right: 20px;    
+   color: white;
+   font-size:large ;
+}
+button{
+    border-radius: 20px;
+    width: 75px;
+    height: 25px;
+    margin-left: -10px;
+    padding: 1.5px;
+    background-color: blue;
+    color: aliceblue;
+}
+h1{
+    position: relative;
+    left: 520px;
+    top: -299px;
+    font-size: 70px;
+}
